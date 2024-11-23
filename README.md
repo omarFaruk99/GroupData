@@ -55,5 +55,5 @@ The app uses **Axios**, a tool for making requests to a server, to fetch data in
 
   Here is a screenshot of the application:
 
-![Screenshot of the App](./assets/Project.jpg)
+![Screenshot of the App](/src/assets/Project.jpg)
 
